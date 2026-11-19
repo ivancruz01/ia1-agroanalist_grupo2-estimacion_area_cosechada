@@ -1,0 +1,8 @@
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+plotly
+# Opcional (GPU en Colab): cuml  ->  %load_ext cuml.accel
