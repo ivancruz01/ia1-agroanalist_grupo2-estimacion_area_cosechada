@@ -1,7 +1,18 @@
 # Estimación del área cosechada en Colombia (EVA 2007–2025)
 
 **Inteligencia Artificial I — Grupo C2, 2026-2 · Universidad Industrial de Santander**
+
 **Equipo:** Agroanalist_Grupo2
+
+**Integrantes:** 
+
+Iván Santiago Cruz Durán - 2234685
+
+Yerson Estiven Cañón Cortés - 2234675
+
+Cristian David Gutiérrez - 2230040
+
+Juan David Barrera - 2221897 
 
 > 🎥 **Video resumen del proyecto (máx. 5 min):** [PENDIENTE: pegar aquí el enlace al video](https://)
 
