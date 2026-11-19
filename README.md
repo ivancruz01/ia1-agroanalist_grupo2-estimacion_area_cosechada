@@ -14,7 +14,7 @@
 
 * Juan David Barrera - 2221897 
 
-> 🎥 **Video resumen del proyecto (máx. 5 min):** [PENDIENTE: pegar aquí el enlace al video](https://)
+> 🎥 **Video resumen del proyecto:** [https://youtu.be/SFwQzhyiUeo]
 
 ---
 
