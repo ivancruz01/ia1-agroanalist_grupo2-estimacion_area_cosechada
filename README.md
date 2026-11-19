@@ -6,13 +6,13 @@
 
 **Integrantes:** 
 
-Iván Santiago Cruz Durán - 2234685
+* Iván Santiago Cruz Durán - 2234685
 
-Yerson Estiven Cañón Cortés - 2234675
+* Yerson Estiven Cañón Cortés - 2234675
 
-Cristian David Gutiérrez - 2230040
+* Cristian David Gutiérrez - 2230040
 
-Juan David Barrera - 2221897 
+* Juan David Barrera - 2221897 
 
 > 🎥 **Video resumen del proyecto (máx. 5 min):** [PENDIENTE: pegar aquí el enlace al video](https://)
 
